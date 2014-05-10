@@ -1,0 +1,4 @@
+StaticRedditHeader
+==================
+
+Static Reddit Header
