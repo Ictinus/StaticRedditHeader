@@ -1,6 +1,8 @@
 StaticRedditHeader
 ==================
 
+See the wiki for an example image of the menu.
+
 Static Reddit Header provides the follow options configurable by sub:
 * Static Header
 * Static Side Bar
